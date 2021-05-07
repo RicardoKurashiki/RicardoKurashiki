@@ -1,4 +1,4 @@
-<img src="images/RicardoGKurashiki.png" width=500>
+<img src="images/RicardoGKurashiki.png" width=100% height=auto>
 <h1> Hello, I'm <a href="https://ricardokurashiki.github.io" target="_blank">Ricardo</a>! 👋</h1>
 
 <p>I'm a computer engineering student at <strong>Pontifícia Universidade Católica do Paraná (PUC-PR)</strong>, at Curitiba city, Brazil.</p>
