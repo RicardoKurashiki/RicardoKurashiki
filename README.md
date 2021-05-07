@@ -1,5 +1,5 @@
 <img src="images/RicardoGKurashiki.png" width=500>
-<h1> Hello, I'm <a href="https://ricardokurashiki.github.io">Ricardo</a>! 👋</h1>
+<h1> Hello, I'm <a href="https://ricardokurashiki.github.io" target="_blank">Ricardo</a>! 👋</h1>
 
 <p>I'm a computer engineering student at <strong>Pontifícia Universidade Católica do Paraná (PUC-PR)</strong>, at Curitiba city, Brazil.</p>
 
@@ -7,9 +7,9 @@
 
 <h2>My social medias:</h2>
 <ul>
-    <li><a href="https://dev.to/ricardokurashiki">DEV.to</a>
-    <li><a href="https://twitter.com/RKurashiki01">Twitter</a>
-    <li><a href="https://www.linkedin.com/in/ricardo-godoi-kurashiki-5236921b1/">LinkedIn</a>
+    <li><a href="https://dev.to/ricardokurashiki" target="_blank">DEV.to</a>
+    <li><a href="https://twitter.com/RKurashiki01" target="_blank">Twitter</a>
+    <li><a href="https://www.linkedin.com/in/ricardo-godoi-kurashiki-5236921b1/" target="_blank">LinkedIn</a>
 </ul>
 
 <br>
