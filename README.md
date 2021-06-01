@@ -13,11 +13,14 @@
 </ul>
 
 <h2>Stats:</h2>
-<img src="https://www.codewars.com/users/RicardoKurashiki/badges/large">
-<a href="https://github.com/RicardoKurashiki/github-readme-stats">
+<a href="https://www.codewars.com/users/RicardoKurashiki" target="_blank">
+    <img src="https://www.codewars.com/users/RicardoKurashiki/badges/large">
+</a>
+
+<a href="https://github.com/RicardoKurashiki/github-readme-stats" target="_blank">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=RicardoKurashiki&count_private=true&show_icons=true&theme=nightowl">
 </a>
 
-<a href="https://github.com/RicardoKurashiki/github-readme-stats">
+<a href="https://github.com/RicardoKurashiki/github-readme-stats" target="_blank">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoKurashiki&layout=compact&theme=nightowl">
 </a>
