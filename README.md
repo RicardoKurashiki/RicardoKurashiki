@@ -18,9 +18,9 @@
 </a>
 <br>
 <a href="https://github.com/RicardoKurashiki/github-readme-stats" target="_blank">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=RicardoKurashiki&count_private=true&show_icons=true&theme=nightowl">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=RicardoKurashiki&count_private=true&show_icons=true&theme=nightowl&custom_title=Status do GitHub">
 </a>
 
 <a href="https://github.com/RicardoKurashiki/github-readme-stats" target="_blank">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoKurashiki&layout=compact&theme=nightowl">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoKurashiki&layout=compact&theme=nightowl&hide=JavaScript&custom_title=Minhas Linguagens">
 </a>
