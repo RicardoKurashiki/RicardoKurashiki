@@ -1,7 +1,7 @@
 <img src="images/RicardoGKurashiki.png" width=100% height=auto>
 <h1> Hello, I'm <a href="https://ricardokurashiki.github.io" target="_blank">Ricardo</a>! 👋</h1>
 
-<p>I'm a computer engineering student at <strong>Pontifícia Universidade Católica do Paraná (PUC-PR)</strong>, at Curitiba city, Brazil.</p>
+<p>I'm a computer engineering student at <strong>Pontifícia Universidade Católica do Paraná (PUC-PR)</strong>, at Curitiba, Brazil.</p>
 
 <p>I'm a self-taught Flutter developer. Started programming in Flutter beginning of 2020 and I'm always learning something new everyday.</p>
 
