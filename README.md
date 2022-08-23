@@ -3,7 +3,7 @@
 
 <p>I'm a computer engineering student at <strong>Pontifícia Universidade Católica do Paraná (PUC-PR)</strong>, at Curitiba, Brazil.</p>
 
-<p>I'm a self-taught Flutter developer. Started programming in Flutter beginning of 2020 and I'm always learning something new everyday.</p>
+<p>I'm a self-taught Flutter developer. Started programming in Flutter on the beginning of 2020 and I'm always learning something new everyday.</p>
 
 <h2>My social medias:</h2>
 <ul>
