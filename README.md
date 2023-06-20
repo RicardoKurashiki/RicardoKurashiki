@@ -1,4 +1,4 @@
-[English](#en)|[Português](#pt)
+| [English](#en) | [Português](#pt) |
 
 
 <img src="images/RicardoGKurashiki.png" width=100% height=auto>
