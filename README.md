@@ -28,6 +28,7 @@
 <p>I'm always making something, so come back to see more!</p>
 <ul>
     <li><a href="https://github.com/RicardoKurashiki/projeto-compilador">Custom Programming Language</a>: A new programming language made for "Linguagens Formais e Compiladores".</li>
+    <li><a href="https://github.com/RicardoKurashiki/app_hair">Flutter Architecture Study</a>: An app to study a new approach for project architecture.</li>
 </ul>
 
 <h2>My Socials</h2>
@@ -65,6 +66,7 @@
 <p>Sempre estou criando algo novo, então volte mais tarde para ver mais!</p>
 <ul>
     <li><a href="https://github.com/RicardoKurashiki/projeto-compilador">Linguagem de programação nova</a>: Uma nova linguagem de programação feita para a matéria de "Linguagens Formais e Compiladores".</li>
+    <li><a href="https://github.com/RicardoKurashiki/app_hair">Estudo de arquitetura de código</a>: Um app criado para aprender uma nova estrutura de arquivos do Flutter.</li>
 </ul>
 
 <h2>Minhas redes sociais</h2>
