@@ -21,7 +21,7 @@
     <li>Game Development;</li>
     <li>Artificial Intelligence (Computer Vision).</li>
 </ul>
-
+<!--
 <h2>Some projects</h2>
 <p>These are some of my projects. Some of them I made while in college, and others were made to learn something new.</p>
 <p>I'm always making something, so come back to see more!</p>
@@ -30,6 +30,7 @@
     <li><a href="https://github.com/RicardoKurashiki/app_hair">Flutter Architecture Study</a>: An app to study a new approach for project architecture.</li>
     <li><a href="https://github.com/RicardoKurashiki/python-tcc">My final project for college about computer vision.</li>
 </ul>
+-->
 
 <h2>My Socials</h2>
 <p>You can find me at:</p>
@@ -60,6 +61,7 @@
     <li>Inteligência Artificial (Visão Computacional).</li>
 </ul>
 
+<!--
 <h2>Alguns projetos</h2>
 <p>Alguns dos meus projetos. Uns feitos durante a faculdade, e outros feitos para aprendizado.</p>
 <p>Sempre estou criando algo novo, então volte mais tarde para ver mais!</p>
@@ -68,7 +70,7 @@
     <li><a href="https://github.com/RicardoKurashiki/app_hair">Estudo de arquitetura de código</a>: Um app criado para aprender uma nova estrutura de arquivos do Flutter.</li>
     <li><a href="https://github.com/RicardoKurashiki/python-tcc">Meu TCC voltado a visão computacional.</li>
 </ul>
-
+-->
 <h2>Minhas redes sociais</h2>
 <p>Você também pode me encontrar aqui:</p>
 
