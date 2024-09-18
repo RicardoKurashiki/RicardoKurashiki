@@ -10,8 +10,9 @@
 
 <h2>About me</h2>
 <ul>
-    <li>💼 Working as a Flutter Developer at <a href="https://www.podiapp.com.br/">Podi</a>;</li>
-    <li>🌱 Learning how to develop games using Godot;</li>
+    <li>💼 Working as a Flutter Developer at <a href="https://www.podiapp.com.br/">Podi</a> since 2021;</li>
+    <li>🌱 Learning how to develop games using Godot as a hobby;</li>
+    <li>📙 Currently working on my Master's Degree on PUC-PR;</li>
 </ul>
 
 <h2>My Interests</h2>
@@ -49,8 +50,9 @@
 
 <h2>Sobre mim</h2>
 <ul>
-    <li>💼 Trabalho como desenvolvedor pleno em Flutter no <a href="https://www.podiapp.com.br/">Podi</a>;</li>
-    <li>🌱 Atualmente estou aprendendo a fazer jogos em Godot;</li>
+    <li>💼 Trabalho como desenvolvedor pleno em Flutter no <a href="https://www.podiapp.com.br/">Podi</a> desde 2021;</li>
+    <li>🌱 Atualmente estou aprendendo a fazer jogos em Godot como hobby;</li>
+    <li>📙 Atualmente fazendo mestrado na PUC-PR;</li>
 </ul>
 
 <h2>Meus interesses</h2>
