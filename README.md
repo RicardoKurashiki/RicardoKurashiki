@@ -1,9 +1,9 @@
 | [English](#en) | [Português](#pt) |
 
 
-<img src="images/RicardoGKurashiki.png" width=100% height=auto>
+<!-- <img src="images/RicardoGKurashiki.png" width=100% height=auto> -->
 
-<h1 id="en"> Hello, I'm <a href="https://ricardokurashiki.github.io" target="_blank">Ricardo</a>! 👋</h1>
+<h1 id="en"> Hello, I'm Ricardo! 👋</h1>
 
 <p>I'm a computer engineer from <strong>Pontifícia Universidade Católica do Paraná (PUC-PR)</strong>, Curitiba/BR.</p>
 <p>I'm a self-taught Flutter developer. Started programming using Dart beginning of 2020 and I'm always trying to improve everyday.</p>
@@ -43,7 +43,7 @@
 
 ---
 
-<h1 id="pt"> Prazer! Eu sou o <a href="https://ricardokurashiki.github.io" target="_blank">Ricardo</a>! 👋</h1>
+<h1 id="pt"> Prazer! Eu sou o Ricardo! 👋</h1>
 
 <p>Me formei em Engenharia de Computação na <strong>Pontifícia Universidade Católica do Paraná (PUC-PR)</strong>.</p>
 <p>Sou um desenvolvedor de Flutter auto-didata. Comecei a programar em Dart no início de 2020, e estou sempre tentando aprender algo novo.</p>
